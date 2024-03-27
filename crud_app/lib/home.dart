@@ -16,7 +16,7 @@ class _HomeScreen extends State<HomeScreen> {
           "Crud App",
           style: TextStyle(
             color: Color.fromRGBO(255, 255, 255, 1),
-            fontSize: 25,
+            fontSize: 26,
             fontWeight: FontWeight.bold,
           ),
         ),
